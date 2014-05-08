@@ -20,3 +20,7 @@ Markdown
 * [[Cheatsheet] Adam-p Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#links)
 * [[Sublime] SublimeText Markdown Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
 * [[DESIGN] mobee ](http://www.mobee.tm.mc/)
+
+WebDesigns
+* https://www.pinterest.com/pin/172333123215463628/
+* https://www.pinterest.com/thierrydevynck/the-most-amazing-websites-of-the-internet/
